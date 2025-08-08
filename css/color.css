@@ -1,0 +1,32 @@
+:root {
+    --base-color:  #777777; 
+    --primary-color: hsl(#3b99d5);
+    --secondary-color: #007CFB;
+    --heading-color: #181818;
+    --link-bg-hover-color:#3b99d5;
+    --bannar-bg-color:#F7F7F7;
+    --link-color:#FFFFFF;
+    --link-bg-color: #3b99d5;
+    --link-hover-bg-color: #007CFB;
+    --white-color: #FFFFFF;
+    --sub-heading-color:#3b99d5;
+    --form-inputs-text-color:#FFFFFF ;
+    --form-fieldInput-bg-color:rgba(255, 255, 255, 0.2) ;
+    --form-label-font-color:#181818 ;
+    --form-input-border-color: rgba(255, 255, 255, 0.3);
+    --form-input-focus-border-color: ;
+    --form-bg-color: #071224;
+    --form-borderColor: #eee;
+    --form-btn-text-color:#3b99d5;
+    --form-btn-border-color:#fff ;
+    --form-btn-bg-color:#FFFFFF;
+    --form-btn-bg-hover-color:rgba(255, 255, 255, 0.2);
+    --form-btn-text-hover-color:#071224;
+    --form-btn-hover-border-color:#3b99d5;
+    --body-font: 'Open Sans'; 
+    --body-font-size: 14px;
+    --body-font-weight: 400;
+
+    --primary-font: 'Open Sans';
+    --secondary-font: 'Bitter';
+}
