@@ -3592,3 +3592,37 @@ footer.main-footer {
     font-size: 11px;
     text-align: center;
 }
+
+.logo {
+    text-align: center;
+}
+
+.logo .tagline {
+    font-size: 14px;
+    color: #007CFB;
+    margin-top: 5px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.logo-outer {
+    flex: 0 0 auto;
+    max-width: 200px; /* adjust as needed */
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    background-color: #3498db; /* blue background like in your image */
+    color: white;
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 6px;
+    width: 100%;
+}
+
+input::placeholder,
+textarea::placeholder {
+    color: #fff;
+    opacity: 0.8;
+}
